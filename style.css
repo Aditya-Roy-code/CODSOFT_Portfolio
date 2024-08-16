@@ -1,0 +1,87 @@
+nav a{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 0.1px;
+    margin: 25px;
+    text-shadow: 10px;
+}
+h1{
+    color: black;
+    font-size: 45px;
+}
+header{
+    width: 100%;
+    padding: 2px;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+p{
+    font-size: 23px;
+    text-align: left;
+}
+.aboutme-content{
+background-color: beige;
+max-width: 1290px;
+}
+h2{
+    background-color: cornsilk;
+    color: black;
+    font-size: 45px;
+    padding: 0.1px;
+    margin: 25px;
+}
+table, th, td, tr{
+    border: 6px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    border-spacing: 2px;
+    width: 1290px;
+    height: 55px;
+    font-size: 23px;
+    color: black;
+}
+a{
+    font-size: 20px;
+    color: sandybrown;
+    padding: 0.1px; 
+    margin: 25px;
+}
+.usefullinks h2 {
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+
+.usefullinks ul {
+    list-style: none;
+    padding: 0;
+}
+
+.usefullinks ul li {
+    font-size: 20px;
+    margin: 10px 0;
+}
+h4{
+    font-size: 34px;
+    color: darkgray;
+    background-color: blanchedalmond;
+    width: 1301px;
+    height: 55px;
+    padding: 10px;
+    margin: 0.20px;
+}
+footer {
+    background-color: #333;
+    color: antiquewhite;
+    padding: 10px 0;
+    font-size: 25px;
+}
+
+footer p {
+    margin: 10px 0;
+}
+*{
+    text-decoration: none;
+}
